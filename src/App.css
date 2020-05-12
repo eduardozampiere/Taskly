@@ -111,6 +111,11 @@ nav{
 	margin-top: 10px;
 }
 
+.card-icon img{
+	width: 35px;
+	height: 35px;
+}
+
 .card-add .card-icon{
 	border-radius: 100%;
 	display: grid;
